@@ -1,4 +1,4 @@
-% Name:³¯¬M¿² ID:0516233
+% Name:Â³Â¯Â¬MÂ¿Â² ID:0516233
 
 % Create a series of numbers
 x = 3:100;  y = sin(.05*x + .002*x.^2) .* (1 - x.*x/20000); 
