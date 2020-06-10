@@ -1,4 +1,4 @@
-% Name:³¯¬M¿² ID:0516233
+% Name:Â³Â¯Â¬MÂ¿Â² ID:0516233
 function [CC,imL]=P3_0516233(im)
 im=imread('prog3.bmp');
 %an array of zeros of the same size as im
